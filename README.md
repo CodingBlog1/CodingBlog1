@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingBlog1
 - 👀 I’m interested in software development...
-- 🌱 I’m currently learning web framework of python Flask 
+- 🌱 I’m currently working on Machine Learning
 - 📫 How to reach me shoyabmalik7887@gmail.com
 
 <!---
